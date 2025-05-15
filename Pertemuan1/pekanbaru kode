@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pekanbaru</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        h1, h2 {
+            color: #000000;
+        }
+        p {
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <h1>Pekanbaru</h1>
+    <p>Ibu kota Provinsi Riau, Indonesia. Kota ini berkembang pesat sebagai pusat perdagangan dan jasa di Pulau Sumatra.</p>
+    
+    <h2>Sejarah</h2>
+    <p>Pekanbaru berawal dari perkampungan Senapelan yang terletak di tepi Sungai Siak. Kota ini berkembang pesat sejak abad ke-18 di bawah Kesultanan Siak dan diresmikan sebagai pusat perdagangan pada tanggal 23 Juni 1784. Belanda kemudian membangun Pekanbaru sebagai pusat administrasi kolonial di Riau. Setelah Indonesia merdeka, Pekanbaru diresmikan sebagai ibu kota Provinsi Riau pada tahun 1959, menggantikan Tanjung Pinang. Kini, Pekanbaru menjadi salah satu kota terbesar di Sumatera dengan sektor perdagangan, industri, dan jasa yang terus berkembang.</p>
+    
+    <h3>Geografis</h3>
+    <p>Pekanbaru memiliki luas 632,26 km² dan terletak pada koordinat 0°25′ LU dan 101°27′ BT. Kota ini berada di dataran rendah dengan ketinggian 5–50 meter di atas permukaan laut dan dilintasi Sungai Siak, salah satu sungai terdalam di Indonesia. Iklimnya tropis dengan suhu berkisar antara 23°C hingga 35°C. Curah hujan cukup tinggi, terutama pada musim penghujan yang menyebabkan kelembaban udara relatif tinggi.</p>
+    
+    <h4>Suku Bangsa</h4>
+    <p>Penduduk Pekanbaru berasal dari berbagai etnis. Banyaknya pertemuan suku Melayu, yang merupakan penduduk asli, diikuti oleh Minangkabau, Batak, Jawa, Tionghoa, dan Bugis. Etnis Keanekaragaman ini tercermin dalam kehidupan sosial, budaya, serta kuliner khas kota ini. Wilayah Pasar Bawah dan Senapelan dikenal sebagai pusat komunitas Tionghoa, sedangkan budaya Minangkabau banyak ditemukan di berbagai aspek kehidupan masyarakat Pekanbaru.</p>
+    
+    <h5>Pariwisata</h5>
+    <p>Destinasi wisata di Pekanbaru antara lain:</p>
+    <ul>
+        <li>Masjid Agung An-Nur</li>
+        <li>Istana Siak Sri Indrapura</li>
+        <li>Pasar Bawah</li>
+        <li>Taman Wisata Alam Mayang</li>
+        <li>Jembatan Siak IV</li>
+    </ul>
+    
+    <h6>Olahraga</h6>
+    <p>Pekanbaru memiliki klub sepak bola PSPS Riau dan beberapa fasilitas olahraga seperti Stadion Kaharuddin Nasution, GOR Tribuana, dan Stadion Rumbai.</p>
+</body>
+</html>
