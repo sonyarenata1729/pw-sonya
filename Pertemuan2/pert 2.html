@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tampilan Web</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        .container {
+            width: 90%;
+            margin: auto;
+            border: 2px solid black;
+            padding: 10px;
+            overflow: hidden;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        th, td {
+            border: 1px solid black;
+            padding: 10px;
+            text-align: center;
+        }
+        .content {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            overflow: hidden;
+        }
+        .content img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <table>
+            <tr>
+                <th>Audio</th>
+                <th>Video</th>
+                <th>Image</th>
+                <th>Keterangan</th>
+            </tr>
+            <tr>
+                <td><audio controls src ="afterlike.mp3">
+                <td><video controls width="200"><source src="upinipin.mp4" type="video/mp4"></video></td>
+                <td><img width="280" height="157" src="foto sonya.jpg"></td>
+                <td>
+                    <strong>Nama:</strong> Sonya Renata <br>
+                    <strong>Tempat, Tanggal Lahir:</strong> Kerinci, 3 Juli 2006 <br>
+                    <strong>Alamat:</strong> Jl. Sempurna <br>
+                    <strong>Email:</strong> sonya.renata@gmail.com <br>
+                    <strong>Pendidikan:</strong> S1 Teknik Informatika - Universitas Satya Terra Bhinneka <br>
+                    <strong>Pekerjaan:</strong> Mahasiswa <br>
+                    <strong>Hobi:</strong> Menulis, mendengarkan musik <br>
+                </td>
+            </tr>
+        </table>
+        <h3>Video</h3>
+        <div class="content">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/W_MUcyXz3r4?si=Fce87YYloHlP-2oV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        </div>
+        <h3>Konten</h3>
+        <div class="content">
+            <img src="love.png" width="280" height="157">
+            <p> 들으면 기분 좋아지는 디즈니/픽사 ost 모음 🏰✨</p>
+        </div>
+    </div>
+</body>
+</html>
